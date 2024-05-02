@@ -44,3 +44,6 @@ TagManager:
   - name: Grenades
     uniqueID: 4606577
     locked: 0
+  - name: Explosions
+    uniqueID: 573332393
+    locked: 0
